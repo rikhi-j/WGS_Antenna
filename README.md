@@ -1,5 +1,4 @@
-**PSO-Based Optimization of Optically Transparent Waveguide Slot Antennas
-**
+**PSO-Based Optimization of Optically Transparent Waveguide Slot Antennas**
 
 Project Purpose
 
